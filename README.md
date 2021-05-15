@@ -1,16 +1,18 @@
-### Hi there 👋
+```js
+import SoftwareDeveloper from "mishra-tanay";
 
-<!--
-**mishra-tanay/mishra-tanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Bio extends SoftwareDeveloper {
+  name = "Tanay Mishra";
+  title = "Software Developer ";
+  company = "D. E. Shaw";
+  location = "Hyderabad, India";
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Microservices
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on  ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages = ["C++", "Python"];
+  databases = ["PostgreSQL", "DynamoDB", ""];
+  skills = ["Data-Structures", "Algorithms"];
+  tools =["git"]
+  text-editors = ["VIM","VSCode"]
+}
+```
