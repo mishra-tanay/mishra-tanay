@@ -9,9 +9,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages = ["C++", "Python"];
-  databases = ["PostgreSQL", "DynamoDB"];
-  skills = ["Data-Structures", "Algorithms"];
+  languages = ["C++", "Python"]
+  databases = ["PostgreSQL", "DynamoDB"]
+  skills = ["Data-Structures", "Algorithms"]
   tools =["git"]
   text-editors = ["Vim","VSCode"]
 }
