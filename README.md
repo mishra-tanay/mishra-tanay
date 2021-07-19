@@ -1,4 +1,7 @@
 ```js
+'''
+Life is too short to resolve merge conflicts manually
+'''
 import SoftwareDeveloper from "mishra-tanay";
 
 class Bio extends SoftwareDeveloper {
