@@ -7,7 +7,7 @@ import SoftwareDeveloper from "mishra-tanay";
 class Bio extends SoftwareDeveloper {
   name = "Tanay Mishra";
   title = "Software Developer";
-  company = "D. E. Shaw";
+  company = "Schrodinger";
   location = "Hyderabad, India";
 }
 
